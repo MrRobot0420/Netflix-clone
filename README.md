@@ -1,6 +1,6 @@
 # NETLIX CLONE
 
-Simple and easy tracking of various covid-19 cases using react and apis for real time data
+Exact clone of netflix web app using reactjs and apis for real time data
 
 ![netflix clone app](master/netflix-clone.png)
 
