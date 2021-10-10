@@ -2,7 +2,7 @@
 
 Simple and easy tracking of various covid-19 cases using react and apis for real time data
 
-![netflix clone app](.master/netflix-clone.png)
+![netflix clone app](master/netflix-clone.png)
 
 
 ## `Install Dependancies` 
