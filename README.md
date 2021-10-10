@@ -13,10 +13,12 @@ npm install
 
 ## `🛠 Built with` 
 - JavaScript
-- Reactjs 
-- TMDB API
+- Reactjs
 - HTML
 - CSS
+- TMDB API
+- React YouTube Package
+
 
 > ### Live 🚀
 ("https://netflixclone001-fb1.netlify.app/")
