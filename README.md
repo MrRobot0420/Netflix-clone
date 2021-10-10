@@ -2,7 +2,7 @@
 
 Exact clone of netflix web app using reactjs and apis for real time data
 
-![netflix clone app](master/netflix-clone.png)
+![netflix clone app](https://github.com/MrRobot0420/Netflix-clone/blob/master/netflix-clone.png)
 
 
 ## `Install Dependancies` 
