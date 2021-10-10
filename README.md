@@ -2,21 +2,21 @@
 
 Simple and easy tracking of various covid-19 cases using react and apis for real time data
 
-![covid-19 console](./img/ss.png)
+![netflix clone app](./img/ss.png)
 
 
 ## `Install Dependancies` 
 
 ```console
-npm i 
+npm install
 ```
 
 ## `🛠 Built with` 
-- React
-- Material ui
-- React Leaflet Maps
-- Chartjs
-- Disease.sh (Covid-19 API)
+- JavaScript
+- Reactjs 
+- TMDB API
+- HTML
+- CSS
 
 > ### Live 🚀
-("https://covid-19-tracker-72ece.web.app/")
+("https://netflixclone001-fb1.netlify.app/")
